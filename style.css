@@ -1,0 +1,39 @@
+body {
+  background-color:#d1d3d6;
+}
+#main {
+}
+.navbar {
+  display: flex;
+
+  height:130px;
+}
+ #title {
+   margin: auto;
+   display: block;
+   font-size: 1.3em;
+   font-weight: bold;
+ }
+
+ #title div {
+  font-size: 0.8em;
+ }
+
+#img-div {
+  display: flex;
+  height:690px;
+  background-color: white
+}
+#img-container {
+  margin: auto;
+}
+#img-caption {
+  text-align: center;
+}
+
+#tribute-info {
+  display: flex;
+}
+#info-col {
+  margin: auto;
+}
